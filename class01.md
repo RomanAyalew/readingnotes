@@ -1,7 +1,6 @@
 # H1 Markdown
    *Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage.
   Here are some of the style we can add into our webpage using markdown* ;
-  
 text
 images
 Headers and quotes
@@ -38,13 +37,13 @@ We can find diffrent markdown syntax by googling. Here is the website i found to
 - Third item
 
 ### H3 Code (``)
-`Code`
+(`Code`)
 
-### H3 Link [title](https://www.example.com)
+### H3 Link([title](https://www.example.com))
 
-[title](https://www.example.com)
+([title](https://www.example.com))
 
-### H3 Image ![alt text](image.jpg)
+### H3 Image (![alt text](image.jpg))
 
 ![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
