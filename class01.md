@@ -1,4 +1,4 @@
-Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage.
+    Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage.
 Here are some of the style we can add into our webpage using markdown ;
 -text
 -list
@@ -10,7 +10,7 @@ There is diffrent markdown syntax for each style.
 Here are some example of markdown synatx and i found it in the link below
 https://www.markdownguide.org/cheat-sheet/
 Heading
-# H1
+# H2
 ## H2
 ### H3
 Bold
@@ -35,7 +35,7 @@ Link
 Image
 ![alt text](image.jpg)
  Github has its own markdown syntax to use. i found this  syntax in this website below
- https://linuxhint.com/github_markdown_cheatsheet/
+click (here)[https://linuxhint.om/github_markdown_cheatsheet/]
  Markdown Syntax
 Table
 | Syntax | Description |
