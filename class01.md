@@ -7,15 +7,18 @@ Headers and quotes
 inline codes and links 
 lists etc
 ## H2 There is diffrent markdown syntax for each style.
-We can find diffrent markdown syntax by googling. Here is the website i found to get some of The basic syntax,
+We can find diffrent markdown syntax by googling. Here is the website i found to get some of The basic syntax 
 
-https://www.markdownguide.org/cheat-sheet/
+[click here](https://www.markdownguide.org/cheat-sheet/)
 
  ### H3  Heading
  
 (#) First header
+
 (##) Second Header 
-(###) Third Header 
+
+(###) Third Header
+
 
 ### H3 Bold(**)
 **bold text**
@@ -34,13 +37,15 @@ https://www.markdownguide.org/cheat-sheet/
 - Third item
 
 ### H3 Code (``)
-`code`
+`Code`
 
-### H3 Link [title](https://www.example.com)	
+### H3 Link [title](https://www.example.com)
+
 [title](https://www.example.com)
 
 ### H3 Image ![alt text](image.jpg)
-![alt text](image.jpg)
+
+![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
    #### H4 Github has its own markdown syntax to use. i found the basic markdown syntax in this 
    
