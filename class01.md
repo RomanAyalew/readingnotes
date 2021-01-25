@@ -1,55 +1,51 @@
-# H1 
-Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage.
+# H1 Markdown
+  Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage.
 Here are some of the style we can add into our webpage using markdown ;
--text
--list
--images
--Headers and quotes
--inline codes and links 
--lists etc
-There is diffrent markdown syntax for each style.
-Here are some example of markdown synatx and i found it in the link below
+text
+images
+Headers and quotes
+inline codes and links 
+lists etc
+## H2 There is diffrent markdown syntax for each style.
+We can find diffrent markdown syntax by googling. Here is the website i found to get some of The basic syntax,
+
 https://www.markdownguide.org/cheat-sheet/
 
-Heading
-#  First Header 
-##  second Header 
-###  third Header 
+ ### H3  Heading
+ 
+(#) First header
+(##) Second Header 
+(###) Third Header 
 
-Bold
+### H3 Bold(**)
 **bold text**
 
-Italic
+### H3 Italic(*)
 *italicized text*
 
-Blockquote
-> blockquote
-
-Ordered List
+### H3 Ordered List
 1. First item
 2. Second item
 3. Third item
 
-Unordered List
+### H3 Unordered List (-)
 - First item
 - Second item
 - Third item
 
-Code
+### H3 Code (``)
 `code`
 
-Horizontal Rule	---
-
-Link	
+### H3 Link [title](https://www.example.com)	
 [title](https://www.example.com)
 
-Image
+### H3 Image ![alt text](image.jpg)
 ![alt text](image.jpg)
 
-  
-    Github has its own markdown syntax to use. i found this  syntax in this website below
-click (here)[https://linuxhint.om/github_markdown_cheatsheet/]
- Markdown Syntax for Github
+   #### H4 Github has its own markdown syntax to use. i found the basic markdown syntax in this 
+   
+[link](https://linuxhint.om/github_markdown_cheatsheet/)
+       Markdown Syntax for Github
 Table
 
 | Syntax | Description |
