@@ -1,8 +1,8 @@
 # MARKDOWN
 
-**Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
+**Markdown is a way to write content for the web. we can use markdown around GITHUB to style and add content into our webpage**
 
-*There is diffrent ways to style our webpage using markdown*  for example;
+*There are diffrent markdown elements *  for example;
   
 -text
 
@@ -10,12 +10,14 @@
 
 -Headers and quotes
 
--inline codes and links 
+-inline codes 
 
--lists etc
+-links 
+
+-lists and etc
 
 ## Markdown syntax 
-
+ 
 There is diffrent markdown syntax for each style.
 
 Here is the website i found helpful to get markdown syntax 
