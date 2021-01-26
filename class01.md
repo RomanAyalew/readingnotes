@@ -1,5 +1,7 @@
-MARKDOWN
-#**Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
+# MARKDOWN
+
+**Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
+
 *There is diffrent ways to style our webpage using markdown*  for example;
   
 -text
@@ -20,7 +22,7 @@ Here is the website i found helpful to get markdown syntax
 
 [click here](https://www.markdownguide.org/cheat-sheet/) to go to the website
 
-## spme of markdown syntaxs and example 
+## some of markdown syntaxs and examples 
 
 ### Headings
 
@@ -31,29 +33,29 @@ Here is the website i found helpful to get markdown syntax
 
 (###) Third Header```
 
-```### Bold(**)```
+### Bold(**)
 
 **I am bold**
 
-```###  Italic(*)```
+###  Italic(*)
 
-* This is italicized text*
+```*This is italicized text*```
 
-```###  Ordered List```
+###  Ordered List
 
-1 Mango
+``` 1 Mango
 
 2 Orange
 
-3 Lime
+3 Lime ```
 
-```###H3 Unordered List (-)```
+###H3 Unordered List (-)
 
-- First item
+```- First item
 
 - Second item
 
-- Third item
+- Third item ```
 
 ###  Code (``)
 
@@ -77,7 +79,7 @@ trim_trailing_whitespace = false`
 
 ![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
-   #### Github uses its own version of markdown syntax
+##Github uses its own version of markdown syntax
    
 [learn more](https://linuxhint.om/github_markdown_cheatsheet/)
        
