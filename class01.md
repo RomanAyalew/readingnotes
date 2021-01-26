@@ -74,7 +74,13 @@ max_line_length = off
 
 trim_trailing_whitespace = false` 
 
-### Link [title](https://www.example.com)
+### Link 
+
+```[title](https://www.example.com)```
+
+### image
+
+```![image](www.imageadress.com)```
 
 ![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
