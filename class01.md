@@ -90,7 +90,7 @@ trim_trailing_whitespace = false`
    
 [learn more](https://linuxhint.om/github_markdown_cheatsheet/)
 
-## what is GFM or (github flavored markdown)?  
+## what is GFM or (Github flavored markdown)?  
 
 *i found the following article in this website* 
 
