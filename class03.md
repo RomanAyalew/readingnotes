@@ -33,6 +33,7 @@
  **git push**
  
  *git push moves  the file from the local repository to remote.
+ 
  ```git push < name of remote server <branch name>```
 
   ## [github](https://github.com/RomanAyalew)
