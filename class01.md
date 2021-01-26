@@ -1,7 +1,7 @@
 # H1 Markdown
 
-    ## H2
-    **Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
+  ## H2
+   **Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
   *Here are some of the style we can add into our webpage using markdown here are some example* ;
   
 -text
@@ -47,13 +47,19 @@ Here is the website i found to get some of The basic syntax
 
 ### H3 Code (``)
 `charset = utf-8
+
 indent_style = space
+
 indent_size = 2
+
 insert_final_newline = true
+
 trim_trailing_whitespace = true
 
 [*.md]
+
 max_line_length = off
+
 trim_trailing_whitespace = false`
 
 ### H3 Link([title](https://www.example.com))
