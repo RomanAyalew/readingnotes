@@ -26,7 +26,11 @@
  ```git push < name of remote server <branch name>```
 
   ## [github](https://github.com/RomanAyalew)
+  
 -its a way to share projects and codes with others
+
 - an online place to store code
+
 -it helps to manage team work
+
 [learn more](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
