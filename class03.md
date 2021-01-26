@@ -29,6 +29,7 @@
 * git commit move changes from the staging area to the local repository
 
  ```git commit -m "<message>"```
+ 
  **git push**
  
  *git push moves  the file from the local repository to remote.
