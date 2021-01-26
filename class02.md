@@ -6,7 +6,8 @@ your machine, or  access online through your our browser, that
 allows you to write and manage our text.*
 ## what is the use of text editor?
 *a text editor can allow us to create and edit a range of programming language.*
-## Here are some of diffrent types of text editors and each best features
+## Here are some of diffrent types of Third-Party Options and features
+
 ### Sublime text 
 -it Provides instant switching between projects
 Cross platform support
@@ -37,9 +38,9 @@ Built-in package manager
 *Brace matching
 ## How Code Editors Different from IDE and Text Editors?
 
-**Code editors have more functionalities than the plain text editors. Plain text editors don’t offer features like syntax highlighting and auto indentations. Also, Code editors are not IDE.**
+**Code editors have more functionalities than the plain text editors. Plain text editors don’t offer features like syntax highlighting and auto indentations.**
 
-*IDE have debugging functionalities, code generators, and many other functionalities to help the developers, where as Code editors help developers in coding to  highlights keywords and syntax errors.
+ *IDE have debugging functionalities, code generators, and many other functionalities to help the developers, where as Code editors help developers in coding to  highlights keywords and syntax errors.
 
 
 
