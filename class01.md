@@ -15,7 +15,8 @@
 -lists etc
 
 ## H2 There is diffrent markdown syntax for each style.
-We can find diffrent markdown syntax by googling. Here is the website i found to get some of The basic syntax 
+
+Here is the website i found to get some of The basic syntax 
 
 [click here](https://www.markdownguide.org/cheat-sheet/)
 
@@ -63,10 +64,10 @@ trim_trailing_whitespace = false`
 
 ![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
-   #### H4 Github has its own markdown syntax to use. i found the basic markdown syntax in this 
+   #### H4 Github uses its own version of markdown syntax 
    
-[link](https://linuxhint.om/github_markdown_cheatsheet/)
-       Markdown Syntax for Github
+[learn more](https://linuxhint.om/github_markdown_cheatsheet/)
+       
 Table
 
 | Syntax | Description |
