@@ -1,6 +1,7 @@
 # H1 Markdown
 
-    ## H2 **Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
+    ## H2
+    **Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
   *Here are some of the style we can add into our webpage using markdown here are some example* ;
   
 -text
