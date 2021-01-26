@@ -22,16 +22,15 @@ Here is the website i found helpful to get markdown syntax
 
 [click here](https://www.markdownguide.org/cheat-sheet/) to go to the website
 
-## some of markdown syntaxs and examples 
+## There are diffrent markdown syntax elements example;
 
 ### Headings
-
  
-```(#) First header
+(#) First header
 
 (##) Second Header 
 
-(###) Third Header```
+(###) Third Header
 
 ### Bold(**)
 
@@ -39,27 +38,27 @@ Here is the website i found helpful to get markdown syntax
 
 ###  Italic(*)
 
-```*This is italicized text*```
+*This is italicized text*
 
 ###  Ordered List
 
-``` 1 Mango
+ 1 Mango
 
 2 Orange
 
-3 Lime ```
+3 Lime 
 
-###H3 Unordered List (-)
+### Unordered List (-)
 
-```- First item
+- First item
 
 - Second item
 
-- Third item ```
+- Third item 
 
 ###  Code (``)
 
-`charset = utf-8
+``` `charset = utf-8
 
 indent_style = space
 
@@ -73,13 +72,13 @@ trim_trailing_whitespace = true
 
 max_line_length = off
 
-trim_trailing_whitespace = false`
+trim_trailing_whitespace = false` 
 
-###  Link [title](https://www.example.com)
+### Link [title](https://www.example.com)
 
 ![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
-##Github uses its own version of markdown syntax
+## Github uses its own version of markdown syntax
    
 [learn more](https://linuxhint.om/github_markdown_cheatsheet/)
        
