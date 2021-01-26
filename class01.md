@@ -1,6 +1,6 @@
-# H1 Markdown
+ # Markdown
 
-  ## H2
+ ## H2
    **Markdown is a way to style text on the web. we can use markdown around GITHUB to style and add content into our webpage**
   *Here are some of the style we can add into our webpage using markdown here are some example* ;
   
@@ -20,7 +20,7 @@ Here is the website i found to get some of The basic syntax
 
 [click here](https://www.markdownguide.org/cheat-sheet/)
 
- ### H3  Heading
+ ### Heading
  
 (#) First header
 
@@ -29,23 +29,23 @@ Here is the website i found to get some of The basic syntax
 (###) Third Header
 
 
-### H3 Bold(**)
+###  Bold(**)
 **bold text**
 
 ### H3 Italic(*)
 *italicized text*
 
-### H3 Ordered List
+###  Ordered List
 1. First item
 2. Second item
 3. Third item
 
-### H3 Unordered List (-)
+###H3 Unordered List (-)
 - First item
 - Second item
 - Third item
 
-### H3 Code (``)
+###  Code (``)
 `charset = utf-8
 
 indent_style = space
@@ -62,55 +62,17 @@ max_line_length = off
 
 trim_trailing_whitespace = false`
 
-### H3 Link([title](https://www.example.com))
-
-([title](https://www.example.com))
-
-### H3 Image (![alt text](image.jpg))
+###  Link (([title](https://www.example.com))
 
 ![JPJ](https://upload.wikimedia.org/wikipedia/commons/b/b4/JPEG_example_JPG_RIP_100.jpg)
 
-   #### H4 Github uses its own version of markdown syntax 
+   #### Github uses its own version of markdown syntax
    
 [learn more](https://linuxhint.om/github_markdown_cheatsheet/)
        
-Table
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-
-Fenced Code 
-
-Block	```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-Footnote
-
-Here's a sentence with a footnote. [^1]
-[^1]: This is the footnote.
-
-Heading ID
-
-### My Great Heading {#custom-id}
-Definition List	term
-: definition
-
-Strikethrough
-
-Task List
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
 
 
- 
 
 
 
