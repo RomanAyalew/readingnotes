@@ -13,6 +13,8 @@ Allows for the user to interact with the browser
 
 *To include JavaScript inside a page, you need to wrap it in <script> tags:  
 
-```<script type="text/javascript">
+## Example
+ `<script type="text/javascript">
 //JS file or text goes here
-</script>```
+</script>`
+
