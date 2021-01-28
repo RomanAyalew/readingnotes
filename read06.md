@@ -1,5 +1,8 @@
 ## JAVASCRIPT
- -JavaScript lets a web page react intelligently. With it, you can create smart web forms that let visitors know when they’ve forgotten to include necessary information. You can make elements appear or disappear, or move around a web page.  You can even update the contents of a web page with information retrieved from a web server—without having to load a new web page. In short, JavaScript lets you make your websites more engaging, effective, and useful.
+ -JavaScript lets a web page react intelligently. 
+ -With it, you can create smart web forms that let visitors know when they’ve forgotten to include necessary information. 
+ -You can make elements appear or disappear, or move around a web page.  You can even update the contents of a web page with information retrieved from a web server—without having to load a new web page.
+ In short, JavaScript lets you make your websites more engaging, effective, and useful.
  -The body’s ability to perform actions
 Behaviour of the website
 Used for interactive functionality
