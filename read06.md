@@ -8,8 +8,8 @@ Behaviour of the website
 Used for interactive functionality
 Allows for the user to interact with the browser
  ## how to link javascript to html
- 
-  -when  you use javascript with a webpage. you use the HTML ```<script>``` elements to tell the browser it is coming across a script. the src attribute tells people where the javascript file is stored.
+
+  -when  you use javascript with a webpage. ySou use the HTML ```<script>``` elements to tell the browser it is coming across a script. the src attribute tells people where the javascript file is stored.
 
 *To include JavaScript inside a page, you need to wrap it in <script> tags:  
 
