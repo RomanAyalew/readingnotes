@@ -7,21 +7,20 @@
   - if you do not know how many times the code should run, you can use a while loop. here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is true.
   ## Do while loop
    the do while loop is very similiar to the while loop, but has one key diffrences: it will always run the statment inside the curly braces at least once, even if the condition evaluates to false.
-
-      ### Example  Comparison operators used to compare two operands;
-      - ===
-      - ==
-      - !==
-      - !=
-      - <
-      - >
-      - <=
-      - >=
-      - =>
-      - Logical operators allow you to combine more than one set of comparison operators.
-      - if else statment allow you to run one set of code if a condition is true, and another if it's false.
-      - all values evaluate to euther truthy or falsy.
-      - condtional statment allow your code to make decisions about what to do next. 
+ ### Example  Comparison operators used to compare two operands;
+- ===
+- ==
+- !==
+- !=
+- <
+- >
+- <=
+- >=
+- =>
+- Logical operators allow you to combine more than one set of comparison operators.
+- if else statment allow you to run one set of code if a condition is true, and another if it's false.
+- all values evaluate to euther truthy or falsy.
+- condtional statment allow your code to make decisions about what to do next. 
 
 
  
