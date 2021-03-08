@@ -9,3 +9,4 @@
 - [read06b](./read06b.md)
 - [reao7](./reado7.md)
 - [read08](./read08.md)
+# Reading notes 102
