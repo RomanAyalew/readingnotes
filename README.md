@@ -17,7 +17,7 @@
 - **[read04](./read04.md)**
 - **[read5](./read5.md)**
 - **[read6](./read6.md)**
-- **[read7](./read07.md)**
+- **[read7](./read7.md)**
 - **[read8](./read8.md)**
 - **[read9](./read9.md)**
 - **[read010](./read10.md)**
