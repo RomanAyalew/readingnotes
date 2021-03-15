@@ -60,7 +60,8 @@ padding, and the actual content. The image below illustrates the box model:
 * Margin - Clears an area outside the border. The margin is transparentExample
 
 * Demonstration of the box model:
- 
+
+  
  <!--  THE NOTES ABOVE FROM W3SCHOOL-->
 
 *examples;*
