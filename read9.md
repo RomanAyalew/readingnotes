@@ -1,7 +1,7 @@
-  ## html tables
+  # html tables
   <!-- Notes is from w3 school-->
  
- # The `<table>tag defines an HTML table.
+  The `<table>tag defines an HTML table.
 
 Each table row is defined with a` <tr> `tag. Each table header is defined with a` <th> `tag. Each table data/cell is defined with a `<td> `tag.
 
