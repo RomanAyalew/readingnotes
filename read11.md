@@ -14,7 +14,7 @@ HTML Images Syntax
 
 * alt - Specifies an alternate text for the image
 
-Example,
+Example:
 
 `<img src="img_girl.jpg" alt="Girl in a jacket">`
  
