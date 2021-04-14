@@ -1,4 +1,4 @@
-# Reading notes 
+# 102 Reading notes 
 
 - [class 01](./class01.md)
 - [class02](./class02.md)
@@ -26,3 +26,21 @@
 - **[read013](./read013.md)**
 - **[read014](./read014.md)**
 - **[read015](./read015.md)**
+
+# *[Code 301 Reading Notes]()
+- **[reado1](./read01.md)**
+- **[reado2](./read02.md)**
+- **[reado3](./read03.md)**
+- **[reado4](./read04.md)**
+- **[reado5](./read5.md)**
+- **[reado6](./read6.md)**
+- **[reado7](./read7.md)**
+- **[reado8](./read8.md)**
+- **[reado9](./read9.md)**
+- **[read10](./read10.md)**
+- **[read11](./read011.md)**
+- **[read12](./read012.md)**
+- **[read13](./read013.md)**
+- **[read14](./read014.md)**
+- **[read15](./read015.md)**
+
